@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head></head>
+
+<body>
+    <div class="card">
+        <h1>Rahul</h1>
+        <p class="sent">Hello Rahul, how are you?</p>
+        <p class="recieved">Hi Varakumar, I am good. How about you?</p>
+        <p class="sent">I'm fine. I published my website recently</p>
+        <p class="recieved">Oh great Varakumar! Can you send me the URL?</p>
+        <p class="sent">https://varakumar.ccbp.tech</p>
+        <p class="recieved">Awesome Varakumar, where did you learn?</p>
+        <p class="sent">NxtWave CCBP 4.0 Program</p>
+    </div>
+</body>
+
+</html>
